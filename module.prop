@@ -1,7 +1,7 @@
 id=emoji-joypixels
 name=JoyPixels®
-version=v9.0
-versionCode=6
-author=derivativeoflog7
-description=Systemlessly replaces emoji font with JoyPixels 9.0
-updateJson=https://raw.githubusercontent.com/derivativeoflog7/JoyPixels/master/update.json
+version=v10.0
+versionCode=7
+author=k4ustu3h
+description=Systemlessly replaces emoji font with JoyPixels 10.0
+updateJson=https://raw.githubusercontent.com/k4ustu3h/joypixels/main/update.json
